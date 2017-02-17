@@ -1,0 +1,8 @@
+div#panel-left {
+  width: 300px;
+}
+
+div#panel-right {
+  margin-left: 300px;
+  left: 0px;
+}

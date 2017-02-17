@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>iVerb Online - Lisacintosh.com</title>
+  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+  <link rel="shortcut icon" type="image/x-icon" href="favicon.png">
+  <link rel="stylesheet" type="text/css" href="index.css">
+  <link rel="stylesheet" type="text/css" media="all and (max-width:699px)" href="index-700px.css">
+  <link rel="stylesheet" type="text/css" media="all and (min-width:700px)" href="index+700px.css">
+</head>
+<body>
+  <div id="header">
+    <p>
+      <a href="/">Lisacintosh.com</a>
+      <a href="/iverb/">iVerb for iOS</a>
+      <span class="title">iVerb</span>
+    </p>
+  </div>
+
+  <div id="content">
+
+    <div id="panel-left">
+      <div class="search-bar">
+        <input type="search" onkeyup="searchFieldDidChange(this);" onmousedown="searchFieldDidChange(this);" placeholder="Search">
+      </div>
+      <table id="verb-list" style="width:100%;">
+      </table>
+    </div>
+
+    <div id="panel-right">
+    </div>
+  </div>
+
+  <script type="text/javascript" src="index.js"></script>
+  <!-- All verbs (with tenses, definitions and quotes) are freely available at: http://lisacintosh.com/iverb-online/verbs.json -->
+
+</body>
+</html>

@@ -1,0 +1,1916 @@
+{
+	"abide" : {
+		"p" : "abode",
+		"pp" : "abode",
+		"d" : "To wait; to pause; to delay.",
+		"q" : "Try to find your deepest issue in every confusion, and abide by that.[D. H. Lawrence]"
+	},
+	"arise" : {
+		"p" : "arose",
+		"pp" : "arisen",
+		"d" : "To start to exist.",
+		"q" : "I am not concerned that you have fallen; I am concerned that you arise.[Abraham Lincoln]"
+	},
+	"awake" : {
+		"p" : "awoke",
+		"pp" : "awoken",
+		"d" : "To stop sleeping."
+	},
+	"backslide" : {
+		"p" : "backslid",
+		"pp" : "backslidden",
+		"d" : "To regress, to revert to a previous, worse state."
+	},
+	"be" : {
+		"p" : "was/were",
+		"pp" : "been",
+		"d" : "To exist."
+	},
+	"bear" : {
+		"p" : "bore",
+		"pp" : "born",
+		"d" : "To carry something.",
+		"q" : "Whatever sentence will bear to be read twice, we may be sure was thought twice.[Henry David Thoreau]"
+	},
+	"beat" : {
+		"p" : "beat",
+		"pp" : "beaten",
+		"d" : "To strike or pound repeatedly, usually in some sort of rhythm.",
+		"q" : "There are more pleasant things to do than beat up people.[Muhammad Ali]"
+	},
+	"become" : {
+		"p" : "became",
+		"pp" : "become",
+		"d" : "To begin to be.",
+		"q" : "Your beliefs become your thoughts. Your thoughts become your words. Your words become your actions. Your actions become your habits. Your habits become your values. Your values become your destiny.[Mahatma Gandhi]"
+	},
+	"begin" : {
+		"p" : "began",
+		"pp" : "begun",
+		"d" : "To start, to initiate something.",
+		"q" : "To begin is half the work, let half still remain; again begin this, and thou wilt have finished.[Ausonius]"
+	},
+	"bend" : {
+		"p" : "bent",
+		"pp" : "bent",
+		"d" : "To become curved.",
+		"q" : "A good excercise for the heart is to bend down and help another up.[John Andrew Holmes]"
+	},
+	"bet" : {
+		"p" : "bet",
+		"pp" : "bet",
+		"d" : "To make a guess about the outcome of an event.",
+		"q" : "I bet the human brain is a kludge.[Marvin Minsky]"
+	},
+	"bid" : {
+		"p" : "bid",
+		"pp" : "bid",
+		"d" : "To make an attempt.",
+		"q" : "I bid him look into the lives of men as though into a mirror, and from others to take an example for himself.[Terence]"
+	},
+	"bind" : {
+		"p" : "bound",
+		"pp" : "bound",
+		"d" : "To connect.",
+		"q" : "Self is the only prison that can bind the soul.[Henry Van Dyke]"
+	},
+	"bite" : {
+		"p" : "bit",
+		"pp" : "bitten",
+		"d" : "To attack with the teeth.",
+		"q" : "If you can't bite, don't show your teeth.[Yiddish Proverb]"
+	},
+	"bleed" : {
+		"p" : "bled",
+		"pp" : "bled",
+		"d" : "To lose blood.",
+		"q" : "The more you sweat during peace, The less you bleed during war.[Brian Wilson]"
+	},
+	"blow" : {
+		"p" : "blew",
+		"pp" : "blown",
+		"d" : "To explode.",
+		"q" : "The first time you blow someone away is not an insignificant event.[James Mattis]"
+	},
+	"break" : {
+		"p" : "broke",
+		"pp" : "broken",
+		"d" : "To end up in two or more pieces that cannot easily be reassembled.",
+		"q" : "However long the night, the dawn will break.[African Proverb]"
+	},
+	"breed" : {
+		"p" : "bred",
+		"pp" : "bred",
+		"d" : "To arrange the mating of specific animals.",
+		"q" : "How use doth breed a habit in a man.[William Shakespeare]"
+	},
+	"bring" : {
+		"p" : "brought",
+		"pp" : "brought",
+		"d" : "To supply or contribute.",
+		"q" : "It takes a long time to bring excellence to maturity.[Publilius Syrus]"
+	},
+	"broadcast" : {
+		"p" : "broadcast",
+		"pp" : "broadcast",
+		"d" : "To transmit a message or signal via radio waves."
+	},
+	"browbeat" : {
+		"p" : "browbeat",
+		"pp" : "browbeaten",
+		"d" : "To bully in an intimidating way."
+	},
+	"build" : {
+		"p" : "built",
+		"pp" : "built",
+		"d" : "To form by combining materials or parts",
+		"q" : "Build your reputation by helping other people build theirs.[Anthony D'Angelo]"
+	},
+	"burn" : {
+		"p" : "burnt",
+		"pp" : "burnt",
+		"d" : "To be consumed by fire.",
+		"q" : "The hardest thing in life is to know which bridge to cross and which to burn.[David Russell]"
+	},
+	"burst" : {
+		"p" : "burst",
+		"pp" : "burst",
+		"d" : "To break from internal pressure.",
+		"q" : "But the thing that I saw in your face no power can disinherit: No bomb that ever burst shatters the crystal spirit.[George Orwell]"
+	},
+	"bust" : {
+		"p" : "bust",
+		"pp" : "bust",
+		"d" : "To break something",
+		"q" : "Never quit, not even when you bust your gut i.e. not even when you've made a strenuous effort. For, you ought to press on until you make it.[Emeasoba George]"
+	},
+	"buy" : {
+		"p" : "bought",
+		"pp" : "bought",
+		"d" : "To obtain something in exchange for money or goods",
+		"q" : "People buy into the leader before they buy into the vision.[John C. Maxwell]"
+	},
+	"cast" : {
+		"p" : "cast",
+		"pp" : "cast",
+		"d" : "To throw.",
+		"q" : "All sins cast long shadows.[Irish Proverb]"
+	},
+	"catch" : {
+		"p" : "caught",
+		"pp" : "caught",
+		"d" : "To capture, to overtake.",
+		"q" : "The Constitution only gives people the right to pursue happiness. You have to catch it yourself.[Ben Franklin]"
+	},
+	"choose" : {
+		"p" : "chose",
+		"pp" : "chosen",
+		"d" : "To pick.",
+		"q" : "Choose your friends carefully. Your enemies will choose you.[Yassir Arafat]"
+	},
+	"cling" : {
+		"p" : "clung",
+		"pp" : "clung",
+		"d" : "To hold very tightly to not fall off.",
+		"q" : "Many of the truths we cling to depend greatly on our own point of view.[George Lucas]"
+	},
+	"come" : {
+		"p" : "came",
+		"pp" : "come",
+		"d" : "To arrive",
+		"q" : "When sorrows come, they come not single spies, but in battalions.[William Shakespeare]"
+	},
+	"cost" : {
+		"p" : "cost",
+		"pp" : "cost",
+		"d" : "To calculate or estimate a value.",
+		"q" : "A poor man will be poor until the day he discovers that thinking doesn’t cost anything.[Arber Doci]"
+	},
+	"creep" : {
+		"p" : "crept",
+		"pp" : "crept",
+		"d" : "To move slowly close to the ground.",
+		"q" : "Ambition can creep as well as soar.[Edmund Burke]"
+	},
+	"crossbreed" : {
+		"p" : "crossbred",
+		"pp" : "crossbred",
+		"d" : "To produce hybride organism."
+	},
+	"cut" : {
+		"p" : "cut",
+		"pp" : "cut",
+		"d" : "To divide with a knife, scissors, or another sharp instrument.",
+		"q" : "Trust everybody, but cut the cards.[Finley Peter Dunne]"
+	},
+	"deal" : {
+		"p" : "dealt",
+		"pp" : "dealt",
+		"d" : "To sell, to distribute.",
+		"q" : "Deal with the faults of others as gently as with your own.[Chinese Proverb]"
+	},
+	"dig" : {
+		"p" : "dug",
+		"pp" : "dug",
+		"d" : "To make a hole into the earth with a shovel.",
+		"q" : "Dig the well before you are thirsty.[Chinese Proverb]"
+	},
+	"dive" : {
+		"p" : "dove",
+		"pp" : "dived",
+		"d" : "To jump into water head-first.",
+		"q" : "Dive into the sea of thought, and find there pearls beyond price.[Moses Ibn Ezra]"
+	},
+	"do" : {
+		"p" : "did",
+		"pp" : "done",
+		"d" : "To perform; to execute."
+	},
+	"draw" : {
+		"p" : "drew",
+		"pp" : "drawn",
+		"d" : "To create a picture by sketching with crayon",
+		"q" : "Good resolutions are simply checks that men draw on a bank where they have no account.[Oscar Wilde]"
+	},
+	"dream" : {
+		"p" : "dreamt",
+		"pp" : "dreamt",
+		"d" : "To see imaginary events while sleeping.",
+		"q" : "Dream your life and live your dream.[Gordana Biernat]"
+	},
+	"drink" : {
+		"p" : "drank",
+		"pp" : "drunk",
+		"d" : "To consume liquid through the mouth.",
+		"q" : "Water is the only drink for a wise man.[Henry David Thoreau]"
+	},
+	"drive" : {
+		"p" : "drove",
+		"pp" : "driven",
+		"d" : "To direct a vehicle.",
+		"q" : "Concern should drive us into action, not into a depression.[Karen Horney]"
+	},
+	"dwell" : {
+		"p" : "dwelt",
+		"pp" : "dwelt",
+		"d" : "To live, to reside.",
+		"q" : "Dwell as near as possible to the channel in which your life flows.[Henry David Thoreau]"
+	},
+	"eat" : {
+		"p" : "ate",
+		"pp" : "eaten",
+		"d" : "To consume, usually food, by putting it into the mouth and swallowing it.",
+		"q" : "Bad men live that they may eat and drink, whereas good men eat and drink that they may live.[Socrates]"
+	},
+	"fall" : {
+		"p" : "fell",
+		"pp" : "fallen",
+		"d" : "To move to a lower position under the effect of gravity.",
+		"q" : "Our greatest glory is not in never falling, but in rising every time we fall.[Confucius]"
+	},
+	"feed" : {
+		"p" : "fed",
+		"pp" : "fed",
+		"d" : "To give food to eat.",
+		"q" : "Flowers feed the soul.[Mohammad]"
+	},
+	"feel" : {
+		"p" : "felt",
+		"pp" : "felt",
+		"d" : "To experience an emotion, to become aware of.",
+		"q" : "Only that which makes you feel bad after doing is immoral.[Ernest Hemingway]"
+	},
+	"fight" : {
+		"p" : "fought",
+		"pp" : "fought",
+		"d" : "To engage a battle.",
+		"q" : "It's not the size of the dog in the fight, it's the size of the fight in the dog.[Mark Twain]"
+	},
+	"find" : {
+		"p" : "found",
+		"pp" : "found",
+		"d" : "To encounter, to discover.",
+		"q" : "Don't find fault, find a remedy.[Henry Ford]"
+	},
+	"fit" : {
+		"p" : "fit",
+		"pp" : "fit",
+		"d" : "To be of the right size and cut.",
+		"q" : "A good friend will fit you like ring to finger.[Venezuelan Proverb]"
+	},
+	"flee" : {
+		"p" : "fled",
+		"pp" : "fled",
+		"d" : "To run away; to escape.",
+		"q" : "When violence enters the house, law and justice flee through the window.[Vikrant Parsai]"
+	},
+	"fling" : {
+		"p" : "flung",
+		"pp" : "flung",
+		"d" : "To throw with violence or quick movement."
+	},
+	"fly" : {
+		"p" : "flew",
+		"pp" : "flown",
+		"d" : "To travel through the air.",
+		"q" : "Imagination is the highest kite one can fly.[Lauren Bacall]"
+	},
+	"forbid" : {
+		"p" : "forbade",
+		"pp" : "forbidden",
+		"d" : "To disallow.",
+		"q" : "I do not know myself, and God forbid that I should.[Johann Wolfgang von Goethe]"
+	},
+	"forecast" : {
+		"p" : "forecast",
+		"pp" : "forecast",
+		"d" : "To estimate how a condition will be in the future.",
+		"q" : "Champions know that success is inevitable that there is no such thing as failure, only feedback. They know that the best way to forecast the future is to create it.[Michael J. Gelb]"
+	},
+	"forego" : {
+		"p" : "forewent",
+		"pp" : "foregone",
+		"d" : "To leave alone."
+	},
+	"foresee" : {
+		"p" : "foresaw",
+		"pp" : "foreseen",
+		"d" : "To anticipate, to predict."
+	},
+	"foretell" : {
+		"p" : "foretold",
+		"pp" : "foretold",
+		"d" : "To tell what's going to happen in the future."
+	},
+	"forget" : {
+		"p" : "forgot",
+		"pp" : "forgotten",
+		"d" : "To cease remembering.",
+		"q" : "Forget injuries, never forget kindnesses.[Confucius]"
+	},
+	"forgive" : {
+		"p" : "forgave",
+		"pp" : "forgiven",
+		"d" : "To pardon, to waive any negative feeling.",
+		"q" : "It is easier to forgive an enemy than to forgive a friend.[William Blake]"
+	},
+	"forsake" : {
+		"p" : "forsook",
+		"pp" : "forsaken",
+		"d" : "To abandon, to give up, to renounce."
+	},
+	"freeze" : {
+		"p" : "froze",
+		"pp" : "frozen",
+		"d" : "To become solid due to low temperature, from a liquid state.",
+		"q" : "California is the only state in the union where you can fall asleep under a rose bush in full bloom and freeze to death.[William Claude Dunkenfield (W. C. Fields)]"
+	},
+	"frostbite" : {
+		"p" : "frostbit",
+		"pp" : "frostbitten",
+		"d" : "To expose to the effect of frost, or a frosty air."
+	},
+	"get" : {
+		"p" : "got",
+		"pp" : "got",
+		"d" : "To receive.",
+		"q" : "Since we cannot get what we like, let us like what we can get.[Danish proverb]"
+	},
+	"give" : {
+		"p" : "gave",
+		"pp" : "given",
+		"d" : "To transfer the possession of something to someone else.",
+		"q" : "When you give yourself, you receive more than you give.[Antoine De Saint-Exupery]"
+	},
+	"go" : {
+		"p" : "went",
+		"pp" : "gone",
+		"d" : "To move from one place to another."
+	},
+	"grind" : {
+		"p" : "ground",
+		"pp" : "ground",
+		"d" : "To make smaller by breaking with a device.",
+		"q" : "The man who comes with a tale about others has himself an ax to grind.[Chinese Proverb]"
+	},
+	"grow" : {
+		"p" : "grew",
+		"pp" : "grown",
+		"d" : "To become bigger.",
+		"q" : "Everybody wants to be somebody, nobody wants to grow.[Johann von Goethe]"
+	},
+	"hand-feed" : {
+		"p" : "hand-fed",
+		"pp" : "hand-fed",
+		"d" : "To feed directly with hands."
+	},
+	"handwrite" : {
+		"p" : "handwrote",
+		"pp" : "handwritten",
+		"d" : "To write with a pen."
+	},
+	"hang" : {
+		"p" : "hung",
+		"pp" : "hung",
+		"d" : "To cause something to be suspended.",
+		"q" : "We must all hang together, or most assuredly we shall all hang separately.[Benjamin Franklin]"
+	},
+	"have" : {
+		"p" : "had",
+		"pp" : "had",
+		"d" : "To possess.",
+		"q" : "I have spent most of my time worrying about thigs that have never happened.[Mark Twain]"
+	},
+	"hear" : {
+		"p" : "heard",
+		"pp" : "heard",
+		"d" : "To perceive a sound with the ear.",
+		"q" : "I hear and I forget. I see and I remember. I do and I understand.[Confucius]"
+	},
+	"hew" : {
+		"p" : "hewed",
+		"pp" : "hewn",
+		"d" : "To shape, to form."
+	},
+	"hide" : {
+		"p" : "hid",
+		"pp" : "hidden",
+		"d" : "To put something out of sight or in a place where it will be harder to discover.",
+		"q" : "Hide your talents and success will hide from you.[Matshona Dhliwayo]"
+	},
+	"hit" : {
+		"p" : "hit",
+		"pp" : "hit",
+		"d" : "To come into contact with forcefully and suddenly.",
+		"q" : "In the long run, you hit only what you aim at: Therefore aim high.[Henry David Thoreau]"
+	},
+	"hold" : {
+		"p" : "held",
+		"pp" : "held",
+		"d" : "To have and keep possession of something.",
+		"q" : "Hold faithfulness and sincerity as first principles.[Confucius]"
+	},
+	"hurt" : {
+		"p" : "hurt",
+		"pp" : "hurt",
+		"d" : "To be painful.",
+		"q" : "When there is no enemy within, the enemies outside cannot hurt you.[African Proverb]"
+	},
+	"inbreed" : {
+		"p" : "inbred",
+		"pp" : "inbred",
+		"d" : "To produce or generate within."
+	},
+	"inlay" : {
+		"p" : "inlaid",
+		"pp" : "inlaid",
+		"d" : "To fill a tooth."
+	},
+	"input" : {
+		"p" : "input",
+		"pp" : "input",
+		"d" : "To enter data."
+	},
+	"interbreed" : {
+		"p" : "interbred",
+		"pp" : "interbred",
+		"d" : "To produce hybride organism."
+	},
+	"interweave" : {
+		"p" : "interwove",
+		"pp" : "interwoven",
+		"d" : "To combine two things through weaving"
+	},
+	"interwind" : {
+		"p" : "interwound",
+		"pp" : "interwound",
+		"d" : "To wind around."
+	},
+	"jerry-build" : {
+		"p" : "jerry-built",
+		"pp" : "jerry-built",
+		"d" : "To build with materials of poor quality."
+	},
+	"keep" : {
+		"p" : "kept",
+		"pp" : "kept",
+		"d" : "To maintain possession of something.",
+		"q" : "I am not telling you not to keep money but let not money keep you.[Vikrant Parsai]"
+	},
+	"kneel" : {
+		"p" : "knelt",
+		"pp" : "knelt",
+		"d" : "To rest on the knee or knees.",
+		"q" : "Hang out with the powerful and people will kneel before you wherever you go.[Vikrant Parsai]"
+	},
+	"knit" : {
+		"p" : "knit",
+		"pp" : "knit",
+		"d" : "To join closely and firmly together.",
+		"q" : "It is easy to say how we love new friends, and what we think of them, but words can never trace out all the fibers that knit us to the old.[George Eliot]"
+	},
+	"know" : {
+		"p" : "knew",
+		"pp" : "known",
+		"d" : "To have knowledge of a subject.",
+		"q" : "I know that I am intelligent, because I know that I know nothing.[Socrates]"
+	},
+	"lay" : {
+		"p" : "laid",
+		"pp" : "laid",
+		"d" : "To place something down in a position of rest.",
+		"q" : "If you were born lucky, even your rooster will lay eggs.[Assyrian Proverb]"
+	},
+	"lead" : {
+		"p" : "led",
+		"pp" : "led",
+		"d" : "To show the way, to go to somewhere",
+		"q" : "One's real life is often the life that one does not lead.[Oscar Wilde]"
+	},
+	"lean" : {
+		"p" : "leant",
+		"pp" : "leant",
+		"d" : "To press against.",
+		"q" : "In case of doubt it is best to lean to the side of mercy.[Legal Proverb]"
+	},
+	"leap" : {
+		"p" : "leapt",
+		"pp" : "leapt",
+		"d" : "To jump from one location to another.",
+		"q" : "He who would leap high must take a long run.[Danish proverb]"
+	},
+	"learn" : {
+		"p" : "learnt",
+		"pp" : "learnt",
+		"d" : "To acquire, or attempt to acquire knowledge or an ability to do something.",
+		"q" : "Live to learn... forget... and learn again.[Brian]"
+	},
+	"leave" : {
+		"p" : "left",
+		"pp" : "left",
+		"d" : "To depart from.",
+		"q" : "Leave no stone unturned.[Euripides]"
+	},
+	"lend" : {
+		"p" : "lent",
+		"pp" : "lent",
+		"d" : "To persuade somebody.",
+		"q" : "It is better to give than to lend and it costs about the same.[Polish Proverb]"
+	},
+	"let" : {
+		"p" : "let",
+		"pp" : "let",
+		"d" : "To allow, not to prevent.",
+		"q" : "Let them have their ways, but let us never loose ours.[Rossella Camerlingo]"
+	},
+	"lie" : {
+		"p" : "lay",
+		"pp" : "lain",
+		"d" : "To be in a horizontal position.",
+		"q" : "Simple ideas lie within the reach only of complex minds.[Remy de Gourmont]"
+	},
+	"light" : {
+		"p" : "lit",
+		"pp" : "lit",
+		"d" : "To set fire to.",
+		"q" : "Better to light a candle than to curse the darkness.[Chinese Proverb]"
+	},
+	"lip-read" : {
+		"p" : "lip-read",
+		"pp" : "lip-read",
+		"d" : "To read from lips, from mouth."
+	},
+	"lose" : {
+		"p" : "lost",
+		"pp" : "lost",
+		"d" : "To fail to be the winner.",
+		"q" : "You never lose by loving. You always lose by holding back.[Barbara DeAngelis]"
+	},
+	"make" : {
+		"p" : "made",
+		"pp" : "made",
+		"d" : "To create, construct, or produce.",
+		"q" : "Make yourself necessary to somebody. Do not make life hard to any.[Ralph Waldo Emerson]"
+	},
+	"mean" : {
+		"p" : "meant",
+		"pp" : "meant",
+		"d" : "To have intentions, to plan to do.",
+		"q" : "The limits of my language mean the limits of my world.[Ludwig Wittgenstein]"
+	},
+	"meet" : {
+		"p" : "met",
+		"pp" : "met",
+		"d" : "To be introduced to someone.",
+		"q" : "Every man I meet is in some way my superior.[Ralph Waldo Emerson]"
+	},
+	"miscast" : {
+		"p" : "miscast",
+		"pp" : "miscast",
+		"d" : "To cast an actor in an inappropriate role."
+	},
+	"misdeal" : {
+		"p" : "misdealt",
+		"pp" : "misdealt",
+		"d" : "To make a mistake when dealing cards."
+	},
+	"misdo" : {
+		"p" : "misdid",
+		"pp" : "misdone",
+		"d" : "To do something incorrectly or improperly."
+	},
+	"mishear" : {
+		"p" : "misheard",
+		"pp" : "misheard",
+		"d" : "To hear wrongly."
+	},
+	"mislay" : {
+		"p" : "mislaid",
+		"pp" : "mislaid",
+		"d" : "To leave or lay something in the wrong place and then forget where one put it."
+	},
+	"mislead" : {
+		"p" : "misled",
+		"pp" : "misled",
+		"d" : "To lead astray, in a false direction.",
+		"q" : "Blinding ignorance does mislead us. O! Wretched mortals, open your eyes![Leonardo Da Vinci]"
+	},
+	"mislearn" : {
+		"p" : "mislearnt",
+		"pp" : "mislearnt",
+		"d" : "To learn or know something in the wrong way."
+	},
+	"misread" : {
+		"p" : "misread",
+		"pp" : "misread",
+		"d" : "To read wrongly, normally by accident.",
+		"q" : "Silence is a text easy to misread.[A. A. Attanasio]"
+	},
+	"misset" : {
+		"p" : "misset",
+		"pp" : "misset",
+		"d" : "To place something in the wrong location."
+	},
+	"misspeak" : {
+		"p" : "misspoke",
+		"pp" : "misspoken",
+		"d" : "To fail to pronounce, utter, or speak correctly"
+	},
+	"misspell" : {
+		"p" : "misspelt",
+		"pp" : "misspelt",
+		"d" : "To spell incorrectly."
+	},
+	"misspend" : {
+		"p" : "misspent",
+		"pp" : "misspent",
+		"d" : "To spend poorly or incorrectly."
+	},
+	"mistake" : {
+		"p" : "mistook",
+		"pp" : "mistaken",
+		"d" : "To make an error, to do something in wrong way.",
+		"q" : "Never mistake motion for action.[Ernest Hemingway]"
+	},
+	"misteach" : {
+		"p" : "mistaught",
+		"pp" : "mistaught",
+		"d" : "To teach incorrectly."
+	},
+	"misunderstand" : {
+		"p" : "misunderstood",
+		"pp" : "misunderstood",
+		"d" : "To understand incorrectly, while thinking to have understood correctly.",
+		"q" : "It is better to understand little than to misunderstand a lot.[Anatole France]"
+	},
+	"miswrite" : {
+		"p" : "miswrote",
+		"pp" : "miswritten",
+		"d" : "To write incorrectly."
+	},
+	"mow" : {
+		"p" : "mowed",
+		"pp" : "mown",
+		"d" : "To cut something, especially grass or grain.",
+		"q" : "The grass looks greener on the other side of the fence because you don't have to mow it.[David L. Bonar]"
+	},
+	"offset" : {
+		"p" : "offset",
+		"pp" : "offset",
+		"d" : "To compensate for something.",
+		"q" : "No amount of artificial reinforcement can offset the natural inequalities of human individuals.[Henry P. Fairchild]"
+	},
+	"outbid" : {
+		"p" : "outbid",
+		"pp" : "outbid",
+		"d" : "To make more attempts than somebody else."
+	},
+	"outdo" : {
+		"p" : "outdid",
+		"pp" : "outdone",
+		"d" : "To excel, to go beyond in performance, to master."
+	},
+	"outdraw" : {
+		"p" : "outdrew",
+		"pp" : "outdrawn",
+		"d" : "To extract or draw out, faster than."
+	},
+	"outdrink" : {
+		"p" : "outdrank",
+		"pp" : "outdrunk",
+		"d" : "To drink more than someone else"
+	},
+	"outdrive" : {
+		"p" : "outdrove",
+		"pp" : "outdriven",
+		"d" : "To drive a vehicle farther or better than."
+	},
+	"outfight" : {
+		"p" : "outfought",
+		"pp" : "outfought",
+		"d" : "To fight better than."
+	},
+	"outfly" : {
+		"p" : "outflew",
+		"pp" : "outflown",
+		"d" : "To fly better or faster than."
+	},
+	"outgrow" : {
+		"p" : "outgrew",
+		"pp" : "outgrown",
+		"d" : "To become too big or mature for some purpose."
+	},
+	"outleap" : {
+		"p" : "outleapt",
+		"pp" : "outleapt",
+		"d" : "To leap beyond or farther than."
+	},
+	"outride" : {
+		"p" : "outrode",
+		"pp" : "outridden",
+		"d" : "To ride better than someone."
+	},
+	"outrun" : {
+		"p" : "outran",
+		"pp" : "outrun",
+		"d" : "To run faster than the others.",
+		"q" : "Our scientific power has outrun our spiritual power. We have guided missiles and misguided men.[Martin Luther King, Jr.]"
+	},
+	"outsell" : {
+		"p" : "outsold",
+		"pp" : "outsold",
+		"d" : "To sell more than the others."
+	},
+	"outshine" : {
+		"p" : "outshone",
+		"pp" : "outshone",
+		"d" : "To shine brighter than something."
+	},
+	"outshoot" : {
+		"p" : "outshot",
+		"pp" : "outshot",
+		"d" : "To score more goals than the other side in a goal sport such as hockey or soccer."
+	},
+	"outsing" : {
+		"p" : "outsang",
+		"pp" : "outsung",
+		"d" : "To sing better, longer or louder than another."
+	},
+	"outsit" : {
+		"p" : "outsat",
+		"pp" : "outsat",
+		"d" : "To sit longer than."
+	},
+	"outsleep" : {
+		"p" : "outslept",
+		"pp" : "outslept",
+		"d" : "To sleep longer than or beyond."
+	},
+	"outsmell" : {
+		"p" : "outsmelt",
+		"pp" : "outsmelt",
+		"d" : "To have better smell sense than."
+	},
+	"outspeak" : {
+		"p" : "outspoke",
+		"pp" : "outspoken",
+		"d" : "To speak or say something lounder or longer than."
+	},
+	"outspend" : {
+		"p" : "outspent",
+		"pp" : "outspent",
+		"d" : "To spend more than some limit."
+	},
+	"outswim" : {
+		"p" : "outswam",
+		"pp" : "outswum",
+		"d" : "To swim faster than the others."
+	},
+	"outthink" : {
+		"p" : "outthought",
+		"pp" : "outthought",
+		"d" : "To think faster than."
+	},
+	"overbid" : {
+		"p" : "overbid",
+		"pp" : "overbid",
+		"d" : "To make an excessively high offer to pay."
+	},
+	"overbuild" : {
+		"p" : "overbuilt",
+		"pp" : "overbuilt",
+		"d" : "To perform excessive construction on a building in an area."
+	},
+	"overbuy" : {
+		"p" : "overbought",
+		"pp" : "overbought",
+		"d" : "To buy excessively, especially to buy more than one needs or can afford."
+	},
+	"overcome" : {
+		"p" : "overcame",
+		"pp" : "overcome",
+		"d" : "To surmount an obstacle, to get the better of.",
+		"q" : "You are only greater than what you overcome.[Matshona Dhliwayo]"
+	},
+	"overdo" : {
+		"p" : "overdid",
+		"pp" : "overdone",
+		"d" : "To do too much of something.",
+		"q" : "Govern a great nation as you would cook a small fish. Do not overdo it.[Lao Tzu]"
+	},
+	"overdraw" : {
+		"p" : "overdrew",
+		"pp" : "overdrawn",
+		"d" : "To withdraw more money from an account than there is credit."
+	},
+	"overdrink" : {
+		"p" : "overdrank",
+		"pp" : "overdrunk",
+		"d" : "To drink to excess"
+	},
+	"overeat" : {
+		"p" : "overate",
+		"pp" : "overeaten",
+		"d" : "To eat too much."
+	},
+	"overfeed" : {
+		"p" : "overfed",
+		"pp" : "overfed",
+		"d" : "To eat more than is necessary."
+	},
+	"overhang" : {
+		"p" : "overhung",
+		"pp" : "overhung",
+		"d" : "To hang, to suspend something on the top."
+	},
+	"overlay" : {
+		"p" : "overlaid",
+		"pp" : "overlaid",
+		"d" : "To lay something over, to cover."
+	},
+	"overpay" : {
+		"p" : "overpaid",
+		"pp" : "overpaid",
+		"d" : "To pay too much."
+	},
+	"override" : {
+		"p" : "overrode",
+		"pp" : "overridden",
+		"d" : "To ride across or beyond something.",
+		"q" : "Truth is generally kindness, but where the two diverge and collide, kindness should override truth.[Samuel Butler]"
+	},
+	"overrun" : {
+		"p" : "overran",
+		"pp" : "overrun",
+		"d" : "To continue for too long."
+	},
+	"oversee" : {
+		"p" : "oversaw",
+		"pp" : "overseen",
+		"d" : "To inspect, to examine."
+	},
+	"oversell" : {
+		"p" : "oversold",
+		"pp" : "oversold",
+		"d" : "To sell more of something than one can supply."
+	},
+	"oversew" : {
+		"p" : "oversewed",
+		"pp" : "oversewn",
+		"d" : "To sew several times."
+	},
+	"overshoot" : {
+		"p" : "overshot",
+		"pp" : "overshot",
+		"d" : "To go too far.",
+		"q" : "The greatest men sometimes overshoot themselves, but then their very mistakes are so many lessons of instruction.[Tom Browne]"
+	},
+	"oversleep" : {
+		"p" : "overslept",
+		"pp" : "overslept",
+		"d" : "To involuntarily stay sleeping longer than planned."
+	},
+	"overspeak" : {
+		"p" : "overspoke",
+		"pp" : "overspoken",
+		"d" : "To speak too much, to use too many words."
+	},
+	"overspend" : {
+		"p" : "overspent",
+		"pp" : "overspent",
+		"d" : "To spend too much money."
+	},
+	"overspill" : {
+		"p" : "overspilt",
+		"pp" : "overspilt",
+		"d" : "To spill over, to overflow."
+	},
+	"overtake" : {
+		"p" : "overtook",
+		"pp" : "overtaken",
+		"d" : "To become greater than something else."
+	},
+	"overthink" : {
+		"p" : "overthought",
+		"pp" : "overthought",
+		"d" : "To think or analyze too much."
+	},
+	"overthrow" : {
+		"p" : "overthrew",
+		"pp" : "overthrown",
+		"d" : "To throw something so that it goes too far."
+	},
+	"overwrite" : {
+		"p" : "overwrote",
+		"pp" : "overwritten",
+		"d" : "To cover in writing."
+	},
+	"partake" : {
+		"p" : "partook",
+		"pp" : "partaken",
+		"d" : "To take part in an activity, to participate."
+	},
+	"pay" : {
+		"p" : "paid",
+		"pp" : "paid",
+		"d" : "To give money in exchange for goods or services.",
+		"q" : "Taxes are the price we pay for civilization.[Oliver Wendell Holmes]"
+	},
+	"plead" : {
+		"p" : "pled",
+		"pp" : "pled",
+		"d" : "To present an argument, especially in a legal case."
+	},
+	"prebuild" : {
+		"p" : "prebuilt",
+		"pp" : "prebuilt",
+		"d" : "To start to build something by assembling pieces without sewing."
+	},
+	"premake" : {
+		"p" : "premade",
+		"pp" : "premade",
+		"d" : "To make in advance"
+	},
+	"prepay" : {
+		"p" : "prepaid",
+		"pp" : "prepaid",
+		"d" : "To pay in advance, or beforehand"
+	},
+	"presell" : {
+		"p" : "presold",
+		"pp" : "presold",
+		"d" : "To get money before a formal deal."
+	},
+	"preset" : {
+		"p" : "preset",
+		"pp" : "preset",
+		"d" : "To set something in advance."
+	},
+	"preshrink" : {
+		"p" : "preshrank",
+		"pp" : "preshrunk",
+		"d" : "To shrink in advance in order to ensure better fit."
+	},
+	"proofread" : {
+		"p" : "proofread",
+		"pp" : "proofread",
+		"d" : "To check a written text for errors in spelling and grammar."
+	},
+	"prove" : {
+		"p" : "proved",
+		"pp" : "proven",
+		"d" : "To demonstrate that something is true, to give proof for.",
+		"q" : "No amount of experimentation can ever prove me right a single experiment can prove me wrong.[Albert Einstein]"
+	},
+	"put" : {
+		"p" : "put",
+		"pp" : "put",
+		"d" : "To place something somewhere",
+		"q" : "Never put off until tomorrow what you can do the day after tomorrow.[Mark Twain]"
+	},
+	"quick-freeze" : {
+		"p" : "quick-froze",
+		"pp" : "quick-frozen",
+		"d" : "To rapidly reduce the temperature of something to below the freezing point."
+	},
+	"quit" : {
+		"p" : "quit",
+		"pp" : "quit",
+		"d" : "To leave (a place).",
+		"q" : "It's always too early to quit.[Norman Vincent Peale]"
+	},
+	"read" : {
+		"p" : "read",
+		"pp" : "read",
+		"d" : "To look at and interpret letters or other information that is written.",
+		"q" : "If you believe everything you read, better not read.[Japanese Proverb]"
+	},
+	"reawake" : {
+		"p" : "reawoke",
+		"pp" : "reawaken",
+		"d" : "To wake up again."
+	},
+	"rebroadcast" : {
+		"p" : "rebroadcast",
+		"pp" : "rebroadcast",
+		"d" : "To broadcast again"
+	},
+	"rebuild" : {
+		"p" : "rebuilt",
+		"pp" : "rebuilt",
+		"d" : "To build again.",
+		"q" : "We respect revolutionaries, not because they always do the right things but because of their power to destroy and courage to rebuild.[Mehmet Murat ildan]"
+	},
+	"recast" : {
+		"p" : "recast",
+		"pp" : "recast",
+		"d" : "To cast or throw again."
+	},
+	"recut" : {
+		"p" : "recut",
+		"pp" : "recut",
+		"d" : "To cut again"
+	},
+	"redeal" : {
+		"p" : "redealt",
+		"pp" : "redealt",
+		"d" : "To deal playing cards again."
+	},
+	"redo" : {
+		"p" : "redid",
+		"pp" : "redone",
+		"d" : "To do again."
+	},
+	"redraw" : {
+		"p" : "redrew",
+		"pp" : "redrawn",
+		"d" : "To draw again."
+	},
+	"refit" : {
+		"p" : "refit",
+		"pp" : "refit",
+		"d" : "To fit again, to put back in place."
+	},
+	"regrind" : {
+		"p" : "reground",
+		"pp" : "reground",
+		"d" : "To grind again."
+	},
+	"regrow" : {
+		"p" : "regrew",
+		"pp" : "regrown",
+		"d" : "To grow again a part that has been lost, shed or destroyed."
+	},
+	"rehear" : {
+		"p" : "reheard",
+		"pp" : "reheard",
+		"d" : "To hear again"
+	},
+	"reknit" : {
+		"p" : "reknit",
+		"pp" : "reknit",
+		"d" : "To knit again."
+	},
+	"relay" : {
+		"p" : "relaid",
+		"pp" : "relaid",
+		"d" : "To lay again."
+	},
+	"relearn" : {
+		"p" : "relearnt",
+		"pp" : "relearnt",
+		"d" : "To learn again"
+	},
+	"relight" : {
+		"p" : "relit",
+		"pp" : "relit",
+		"d" : "To light or kindle anew."
+	},
+	"remake" : {
+		"p" : "remade",
+		"pp" : "remade",
+		"d" : "To make again, generally to create something better.",
+		"q" : "If women understood and exercised their power they could remake the world.[Emily Taft Douglas]"
+	},
+	"repay" : {
+		"p" : "repaid",
+		"pp" : "repaid",
+		"d" : "To pay back.",
+		"q" : "You cannot live a perfect day without doing something for someone who will never be able to repay you.[John Wooden]"
+	},
+	"reread" : {
+		"p" : "reread",
+		"pp" : "reread",
+		"d" : "To read again.",
+		"q" : "When you reread a classic, you do not see more in the book than you did before; you see more in you than there was before.[Clifton Fadiman]"
+	},
+	"rerun" : {
+		"p" : "reran",
+		"pp" : "rerun",
+		"d" : "To run again."
+	},
+	"resell" : {
+		"p" : "resold",
+		"pp" : "resold",
+		"d" : "To sell again."
+	},
+	"resend" : {
+		"p" : "resent",
+		"pp" : "resent",
+		"d" : "To send again"
+	},
+	"reset" : {
+		"p" : "reset",
+		"pp" : "reset",
+		"d" : "To set back to the initial state."
+	},
+	"resew" : {
+		"p" : "resewed",
+		"pp" : "resewn",
+		"d" : "To sew something over again."
+	},
+	"retake" : {
+		"p" : "retook",
+		"pp" : "retaken",
+		"d" : "To take something again"
+	},
+	"reteach" : {
+		"p" : "retaught",
+		"pp" : "retaught",
+		"d" : "To teach again"
+	},
+	"retear" : {
+		"p" : "retore",
+		"pp" : "retorn",
+		"d" : "To tear again."
+	},
+	"retell" : {
+		"p" : "retold",
+		"pp" : "retold",
+		"d" : "To tell again, to paraphrase, to tell something one has read or heard."
+	},
+	"rethink" : {
+		"p" : "rethought",
+		"pp" : "rethought",
+		"d" : "To think again about a problem."
+	},
+	"retread" : {
+		"p" : "retread",
+		"pp" : "retread",
+		"d" : "To tread again, to walk along again, to follow a path again."
+	},
+	"retrofit" : {
+		"p" : "retrofit",
+		"pp" : "retrofit",
+		"d" : "To modernize"
+	},
+	"rewake" : {
+		"p" : "rewoke",
+		"pp" : "rewaken",
+		"d" : "To wake again."
+	},
+	"rewear" : {
+		"p" : "rewore",
+		"pp" : "reworn",
+		"d" : "To wear again."
+	},
+	"reweave" : {
+		"p" : "rewove",
+		"pp" : "rewoven",
+		"d" : "To weave again."
+	},
+	"rewed" : {
+		"p" : "rewed",
+		"pp" : "rewed",
+		"d" : "To wed again."
+	},
+	"rewet" : {
+		"p" : "rewet",
+		"pp" : "rewet",
+		"d" : "To wet again."
+	},
+	"rewin" : {
+		"p" : "rewon",
+		"pp" : "rewon",
+		"d" : "To win something again."
+	},
+	"rewind" : {
+		"p" : "rewound",
+		"pp" : "rewound",
+		"d" : "To wind back, as to rewind a VCR or cassette tape."
+	},
+	"rewrite" : {
+		"p" : "rewrote",
+		"pp" : "rewritten",
+		"d" : "To write again."
+	},
+	"rid" : {
+		"p" : "rid",
+		"pp" : "rid",
+		"d" : "To free from something.",
+		"q" : "Hating people is like burning down your house to get rid of a rat.[Harry Emerson Fosdick]"
+	},
+	"ride" : {
+		"p" : "rode",
+		"pp" : "ridden",
+		"d" : "To travel on a horse.",
+		"q" : "The bigger the hill you climb, The more you can see from the top, The more you enjoy the ride down, And the longer the ride lasts.[Frank Stephens]"
+	},
+	"ring" : {
+		"p" : "rang",
+		"pp" : "rung",
+		"d" : "To produce the sound of a bell or a similar sound.",
+		"q" : "If the phone doesn't ring, it's me[Jimmy Buffett]"
+	},
+	"rise" : {
+		"p" : "rose",
+		"pp" : "risen",
+		"d" : "To move upwards.",
+		"q" : "Some rise by sin, and some by virtue fall.[William Shakespeare]"
+	},
+	"roughcast" : {
+		"p" : "roughcast",
+		"pp" : "roughcast",
+		"d" : "To shape in a raw or unprepared state."
+	},
+	"run" : {
+		"p" : "ran",
+		"pp" : "run",
+		"d" : "To go at a fast pace, to move quickly.",
+		"q" : "Too many people run out of ideas long before they run out of words.[Author Unknown]"
+	},
+	"sand-cast" : {
+		"p" : "sand-cast",
+		"pp" : "sand-cast",
+		"d" : "To use sand as mold material."
+	},
+	"saw" : {
+		"p" : "sawed",
+		"pp" : "sawn",
+		"d" : "To cut (something) with a saw."
+	},
+	"say" : {
+		"p" : "said",
+		"pp" : "said",
+		"d" : "To pronounce.",
+		"q" : "When you win, say nothing. When you lose, say less.[Paul Brown]"
+	},
+	"see" : {
+		"p" : "saw",
+		"pp" : "seen",
+		"d" : "To perceive with the eyes.",
+		"q" : "We don't see things as they are, we see things as we are.[Anais Nin]"
+	},
+	"seek" : {
+		"p" : "sought",
+		"pp" : "sought",
+		"d" : "To try to find, to search.",
+		"q" : "Convinced myself, I seek not to convince.[Edgar Allan Poe]"
+	},
+	"sell" : {
+		"p" : "sold",
+		"pp" : "sold",
+		"d" : "To transfer goods or provide services in exchange for money.",
+		"q" : "To buy happiness is to sell soul.[Doug Horton]"
+	},
+	"send" : {
+		"p" : "sent",
+		"pp" : "sent",
+		"d" : "To make something go from one place to another.",
+		"q" : "It is useless to send armies against ideas.[Georg Brandes]"
+	},
+	"set" : {
+		"p" : "set",
+		"pp" : "set",
+		"d" : "To put in a certain state.",
+		"q" : "Set a thief to catch a thief.[French Proverb]"
+	},
+	"sew" : {
+		"p" : "sewed",
+		"pp" : "sewn",
+		"d" : "To join pieces together to create an object.",
+		"q" : "Chains do not hold a marriage together. It is threads, hundreds of tiny threads, which sew people together through the years.[Robert Oxton Bolt]"
+	},
+	"shake" : {
+		"p" : "shook",
+		"pp" : "shaken",
+		"d" : "To cause (something) to move rapidly in opposite directions alternatingly.",
+		"q" : "A simple dream, a simple thought, can generate actions to shake the world.[Debasish Mridha, M.D.]"
+	},
+	"shave" : {
+		"p" : "shaved",
+		"pp" : "shaven",
+		"d" : "To cut the hair close to the skin.",
+		"q" : "The best reason I can think of for not running for President of the United States is that you have to shave twice a day.[Adlai E. Stevenson Jr.]"
+	},
+	"shear" : {
+		"p" : "sheared",
+		"pp" : "shorn",
+		"d" : "To deform by force.",
+		"q" : "It is the part of a good shepherd to shear his flock, not to skin it.[Latin Proverb]"
+	},
+	"shed" : {
+		"p" : "shed",
+		"pp" : "shed",
+		"d" : "To part or divide.",
+		"q" : "A man who is good enough to shed his blood for his country is good enough to be given a square deal afterwards.[Theodore Roosevelt]"
+	},
+	"shine" : {
+		"p" : "shone",
+		"pp" : "shone",
+		"d" : "To emit light.",
+		"q" : "Rain makes the sun shine brighter.[Kathy Ann Jensen]"
+	},
+	"shit" : {
+		"p" : "shit/shat",
+		"pp" : "shit/shat",
+		"d" : "To defecate."
+	},
+	"shoe" : {
+		"p" : "shod",
+		"pp" : "shod",
+		"d" : "To put shoes on one's feet."
+	},
+	"shoot" : {
+		"p" : "shot",
+		"pp" : "shot",
+		"d" : "To hit with a projectile or energy beam from such a weapon.",
+		"q" : "Those who shoot, bomb and kill have an inherent fear of peace.[Shehu Sani]"
+	},
+	"show" : {
+		"p" : "showed",
+		"pp" : "shown",
+		"d" : "To display.",
+		"q" : "Show me a thoroughly satisfied man, and I will show you a failure.[Thomas Edison]"
+	},
+	"shrink" : {
+		"p" : "shrank",
+		"pp" : "shrunk",
+		"d" : "To cause something to become smaller.",
+		"q" : "Mankind censure injustice fearing that they may be the victims of it, and not because they shrink from committing it.[Plato]"
+	},
+	"shut" : {
+		"p" : "shut",
+		"pp" : "shut",
+		"d" : "To close, to stop being open.",
+		"q" : "What a blessing it would be if we could open and shut our ears as easily as we open and shut our eyes[Georg Christoph Lichtenberg]"
+	},
+	"sight-read" : {
+		"p" : "sight-read",
+		"pp" : "sight-read",
+		"d" : "To read and perform (music) at sight, without preparation."
+	},
+	"sing" : {
+		"p" : "sang",
+		"pp" : "sung",
+		"d" : "To produce harmonious sounds with one’s voice.",
+		"q" : "If you can walk you can dance, if you can talk you can sing.[Zimbabwean Proverb]"
+	},
+	"sink" : {
+		"p" : "sank",
+		"pp" : "sunk",
+		"d" : "To submerge (something) in a liquid or other substance.",
+		"q" : "Basically my wife was immature. I'd be at home in the bath and she'd come in and sink my boats.[Woody Allen]"
+	},
+	"sit" : {
+		"p" : "sat",
+		"pp" : "sat",
+		"d" : "To seat.",
+		"q" : "Even if you are on the right track, you'll get run over if you just sit there.[Will Rogers]"
+	},
+	"slay" : {
+		"p" : "slew",
+		"pp" : "slain",
+		"d" : "To kill, murder.",
+		"q" : "God give me strength to face a fact though it slay me.[Thomas Huxley]"
+	},
+	"sleep" : {
+		"p" : "slept",
+		"pp" : "slept",
+		"d" : "To rest in a state of reduced consciousness.",
+		"q" : "If you want your dreams to come true, don't sleep.[Yiddish Proverb]"
+	},
+	"slide" : {
+		"p" : "slid",
+		"pp" : "slid",
+		"d" : "To let pass without action.",
+		"q" : "There are two ways to slide easily through life; to believe everything or to doubt everything. Both ways save us from thinking.[Alfred Korzybski]"
+	},
+	"sling" : {
+		"p" : "slung",
+		"pp" : "slung",
+		"d" : "To throw with a circular motion.",
+		"q" : "When you sling mud, you lose ground.[Adlai E. Stevenson Jr.]"
+	},
+	"slink" : {
+		"p" : "slunk",
+		"pp" : "slunk",
+		"d" : "To sneak about furtively."
+	},
+	"slit" : {
+		"p" : "slit",
+		"pp" : "slit",
+		"d" : "To split in two parts.",
+		"q" : "Every normal man must be tempted at times to spit on his hands, hoist the black flag, and begin to slit throats.[H. L. Mencken]"
+	},
+	"smell" : {
+		"p" : "smelt",
+		"pp" : "smelt",
+		"d" : "To sense a smell.",
+		"q" : "If real is what you can feel, smell, taste and see, then 'real' is simply electrical signals interpreted by your brain[Morpheus, The Matrix]"
+	},
+	"sneak" : {
+		"p" : "snuck",
+		"pp" : "snuck",
+		"d" : "To go in a stealthy or furtive manner.",
+		"q" : "I was so naive as a kid I used to sneak behind the barn and do nothing.[Johnny Carson]"
+	},
+	"sow" : {
+		"p" : "sowed",
+		"pp" : "sown",
+		"d" : "To scatter, disperse, or plant (seeds).",
+		"q" : "If you are planning for a year, sow rice if you are planning for a decade, plant trees if you are planning for a lifetime, educate people.[Chinese Proverb]"
+	},
+	"speak" : {
+		"p" : "spoke",
+		"pp" : "spoken",
+		"d" : "To communicate with one's voice, to say words out loud.",
+		"q" : "It takes two to speak truth - One to speak, and another to hear.[Henry David Thoreau]"
+	},
+	"speed" : {
+		"p" : "sped",
+		"pp" : "sped",
+		"d" : "To go fast.",
+		"q" : "It is equally offensive to speed a guest who would like to stay and to detain one who is anxious to leave.[Homer]"
+	},
+	"spell" : {
+		"p" : "spelt",
+		"pp" : "spelt",
+		"d" : "To write or say al the letters form a word.",
+		"q" : "Nothing you can't spell will ever work.[Will Rogers]"
+	},
+	"spend" : {
+		"p" : "spent",
+		"pp" : "spent",
+		"d" : "To consume, to use.",
+		"q" : "How we spend our days is of course how we spend our lives.[Annie Dillard]"
+	},
+	"spill" : {
+		"p" : "spilt",
+		"pp" : "spilt",
+		"d" : "To drop something to make a mess.",
+		"q" : "The tears that you spill, the sorrowful, are sweeter than the laughter of snobs and the guffaws of scoffers.[Kahlil Gibran]"
+	},
+	"spin" : {
+		"p" : "spun",
+		"pp" : "spun",
+		"d" : "To rotate quickly",
+		"q" : "No matter how much spin, effort, lunch or dinner you give the media, they will not fail to notice whether you have won or lost.[Robin Renwick]"
+	},
+	"spit" : {
+		"p" : "spat",
+		"pp" : "spat",
+		"d" : "To evacuate saliva from the mouth.",
+		"q" : "Do not spit in the well - you may be thirsty by and by.[Russian Proverb]"
+	},
+	"split" : {
+		"p" : "split",
+		"pp" : "split",
+		"d" : "To share; to divide.",
+		"q" : "Fine writers should split hairs together, and sit side by side, like friendly apes, to pick the fleas from each others fur.[Logan Pearsall Smith]"
+	},
+	"spoil" : {
+		"p" : "spoilt",
+		"pp" : "spoilt",
+		"d" : "To carry off something by force, to steal.",
+		"q" : "Just as iron rusts from disuse, even so does inaction spoil the intellect.[Leonardo DaVinci]"
+	},
+	"spoon-feed" : {
+		"p" : "spoon-fed",
+		"pp" : "spoon-fed",
+		"d" : "To help somebody (usually a baby) to eat using a spoon."
+	},
+	"spread" : {
+		"p" : "spread",
+		"pp" : "spread",
+		"d" : "To extend.",
+		"q" : "Agent Smith I'd like to share a revelation that I've had during my time here. It came to me when I tried to classify your species. I realized that you're not actually mammals. Every mammal on this planet instinctively develops a natural equilibrium with the surrounding environment, but you humans do not. You move to an area, and you multiply, and multiply, until every natural resource is consumed. The only way you can survive is to spread to another area. There is another organism on this planet that follows the same pattern. A virus. Human beings are a disease, a cancer of this planet, you are a plague, and we are the cure.[Matrix, The]"
+	},
+	"spring" : {
+		"p" : "sprang",
+		"pp" : "sprung",
+		"d" : "To jump or leap."
+	},
+	"stand" : {
+		"p" : "stood",
+		"pp" : "stood",
+		"d" : "To remain motionless.",
+		"q" : "Those who stand strong will stand forever.[Joshua D. Clark]"
+	},
+	"steal" : {
+		"p" : "stole",
+		"pp" : "stolen",
+		"d" : "To acquire at a low price.",
+		"q" : "To steal ideas from one person is plagiarism, to steal ideas from many is research.[Anonymous]"
+	},
+	"stick" : {
+		"p" : "stuck",
+		"pp" : "stuck",
+		"d" : "To strike someone with a stick",
+		"q" : "Be like a postage stamp. Stick to one thing until you get there.[Josh Billings]"
+	},
+	"sting" : {
+		"p" : "stung",
+		"pp" : "stung",
+		"d" : "To hurt, usually by introducing poison or a sharp point.",
+		"q" : "Honey is sweet but bees sting.[French Proverb]"
+	},
+	"stink" : {
+		"p" : "stank",
+		"pp" : "stunk",
+		"d" : "To have a strong bad smell."
+	},
+	"strew" : {
+		"p" : "strewed",
+		"pp" : "strewn",
+		"d" : "To distribute objects in a random manner."
+	},
+	"stride" : {
+		"p" : "strode",
+		"pp" : "stridden",
+		"d" : "To walk with long steps."
+	},
+	"strike" : {
+		"p" : "struck",
+		"pp" : "struck",
+		"d" : "To attack.",
+		"q" : "We have so much time and so little to do. Strike that, reverse it.[Roald Dahl]"
+	},
+	"string" : {
+		"p" : "strung",
+		"pp" : "strung",
+		"d" : "To furnish with or as with a string or strings, like a bonnet and a bow.",
+		"q" : "Words form the thread on which we string our experiences.[Aldous Huxley]"
+	},
+	"strive" : {
+		"p" : "strove",
+		"pp" : "striven",
+		"d" : "To try to achieve a result, with lot of efforts.",
+		"q" : "Strive for excellence, not perfection.[H. Jackson Jr. Brown]"
+	},
+	"sublet" : {
+		"p" : "sublet",
+		"pp" : "sublet",
+		"d" : "To lease or rent all or part of a property."
+	},
+	"sunburn" : {
+		"p" : "sunburnt",
+		"pp" : "sunburnt",
+		"d" : "To have skin burn by the sun."
+	},
+	"swear" : {
+		"p" : "swore",
+		"pp" : "sworn",
+		"d" : "To use offensive language.",
+		"q" : "When angry, count four; when very angry, swear.[Mark Twain]"
+	},
+	"sweat" : {
+		"p" : "sweat",
+		"pp" : "sweat",
+		"d" : "To work hard.",
+		"q" : "Sweat plus sacrifice equals success.[Charlie Finley]"
+	},
+	"sweep" : {
+		"p" : "swept",
+		"pp" : "swept",
+		"d" : "To clean (a surface) by means of a stroking motion of a broom or brush.",
+		"q" : "Let every man sweep the snow from before his own doors, and not busy himself about the frost on his neighbours tiles.[Chinese]"
+	},
+	"swell" : {
+		"p" : "swelled",
+		"pp" : "swollen",
+		"d" : "To become bigger."
+	},
+	"swim" : {
+		"p" : "swam",
+		"pp" : "swum",
+		"d" : "To move through the water, without touching the bottom.",
+		"q" : "If your ship doesn't come in, swim out to it[Jonathan Winters]"
+	},
+	"swing" : {
+		"p" : "swung",
+		"pp" : "swung",
+		"d" : "To dance.",
+		"q" : "When the doors of opportunity swing open, we must make sure that we are not too drunk or too indifferent to walk through.[Jesse Jackson]"
+	},
+	"take" : {
+		"p" : "took",
+		"pp" : "taken",
+		"d" : "To grasp with the hands.",
+		"q" : "Sometimes I would rather that people take away years from my life, than take away a moment.[Pearl Bailey]"
+	},
+	"teach" : {
+		"p" : "taught",
+		"pp" : "taught",
+		"d" : "To pass on knowledge as a teacher.",
+		"q" : "To teach well is to believe in what and whom you teach.[Donna Bulger]"
+	},
+	"tear" : {
+		"p" : "tore",
+		"pp" : "torn",
+		"d" : "To produce tears.",
+		"q" : "Love your neighbor, but don't tear down your fence.[German proverb]"
+	},
+	"telecast" : {
+		"p" : "telecast",
+		"pp" : "telecast",
+		"d" : "To broadcast a television program."
+	},
+	"tell" : {
+		"p" : "told",
+		"pp" : "told",
+		"d" : "To convey by speech; to say.",
+		"q" : "Tell me whom you love and I will tell you who you are.[Houssaye]"
+	},
+	"test-drive" : {
+		"p" : "test-drove",
+		"pp" : "test-driven",
+		"d" : "To drive a motor vehicle in order to evaluate it."
+	},
+	"test-fly" : {
+		"p" : "test-flew",
+		"pp" : "test-flown",
+		"d" : "To fly an aircraft to evaluate its performance."
+	},
+	"think" : {
+		"p" : "thought",
+		"pp" : "thought",
+		"d" : "To guess; to reckon.",
+		"q" : "I cannot teach anybody anything, I can only make them think.[Socrates]"
+	},
+	"throw" : {
+		"p" : "threw",
+		"pp" : "thrown",
+		"d" : "To cause an object to move rapidly through the air.",
+		"q" : "Throw your heart over the fence and the rest will follow.[Norman Vincent Peale]"
+	},
+	"thrust" : {
+		"p" : "thrust",
+		"pp" : "thrust",
+		"d" : "To force something upon someone.",
+		"q" : "Civilization has been thrust upon me... and it has not added one whit to my love for truth, honesty, and generosity.[Luther Standing Bear]"
+	},
+	"tread" : {
+		"p" : "trod",
+		"pp" : "trodden",
+		"d" : "To step on or over.",
+		"q" : "But I, being poor, have only my dreams. I have spread my dreams under your feet. Tread softly, because you tread on my dreams.[W. B. Yeats]"
+	},
+	"typecast" : {
+		"p" : "typecast",
+		"pp" : "typecast",
+		"d" : "To cast an actor in the same kind of role repeatedly."
+	},
+	"typeset" : {
+		"p" : "typeset",
+		"pp" : "typeset",
+		"d" : "To dispose types for printing."
+	},
+	"typewrite" : {
+		"p" : "typewrote",
+		"pp" : "typewritten",
+		"d" : "To type using a typewriter."
+	},
+	"unbend" : {
+		"p" : "unbent",
+		"pp" : "unbent",
+		"d" : "To shape from a curved form to a straight form."
+	},
+	"unbind" : {
+		"p" : "unbound",
+		"pp" : "unbound",
+		"d" : "To remove connection."
+	},
+	"unclothe" : {
+		"p" : "unclad",
+		"pp" : "unclad",
+		"d" : "To strip of clothes, to make naked."
+	},
+	"undercut" : {
+		"p" : "undercut",
+		"pp" : "undercut",
+		"d" : "To sell at a lower."
+	},
+	"underfeed" : {
+		"p" : "underfed",
+		"pp" : "underfed",
+		"d" : "To feed inadequately or insufficiently"
+	},
+	"undergo" : {
+		"p" : "underwent",
+		"pp" : "undergone",
+		"d" : "To experience, to pass through a phase."
+	},
+	"underlie" : {
+		"p" : "underlay",
+		"pp" : "underlain",
+		"d" : "To be situated under."
+	},
+	"undersell" : {
+		"p" : "undersold",
+		"pp" : "undersold",
+		"d" : "To sell something for less than its value."
+	},
+	"underspend" : {
+		"p" : "underspent",
+		"pp" : "underspent",
+		"d" : "To not spend funds appropriated or allocated."
+	},
+	"understand" : {
+		"p" : "understood",
+		"pp" : "understood",
+		"d" : "To believe, based on information.",
+		"q" : "I hear and I forget. I see and I remember. I do and I understand.[Confucius]"
+	},
+	"undertake" : {
+		"p" : "undertook",
+		"pp" : "undertaken",
+		"d" : "To start, to embark on a task.",
+		"q" : "In every affair consider what precedes and what follows, and then undertake it.[Epictetus]"
+	},
+	"underwrite" : {
+		"p" : "underwrote",
+		"pp" : "underwritten",
+		"d" : "To write something below something else."
+	},
+	"undo" : {
+		"p" : "undid",
+		"pp" : "undone",
+		"d" : "To reverse the effects of an action."
+	},
+	"unfreeze" : {
+		"p" : "unfroze",
+		"pp" : "unfrozen",
+		"d" : "To defrost something."
+	},
+	"unhang" : {
+		"p" : "unhung",
+		"pp" : "unhung",
+		"d" : "To take down something from a hanging position."
+	},
+	"unhide" : {
+		"p" : "unhid",
+		"pp" : "unhidden",
+		"d" : "To, reveal, to undo a hide action."
+	},
+	"unknit" : {
+		"p" : "unknit",
+		"pp" : "unknit",
+		"d" : "To undo, to destroy something knit."
+	},
+	"unlearn" : {
+		"p" : "unlearnt",
+		"pp" : "unlearnt",
+		"d" : "To discard the knowledge of."
+	},
+	"unsew" : {
+		"p" : "unsewed",
+		"pp" : "unsewn",
+		"d" : "To extract pieces from an object"
+	},
+	"unsling" : {
+		"p" : "unslung",
+		"pp" : "unslung",
+		"d" : "To take something from a hanging."
+	},
+	"unspin" : {
+		"p" : "unspun",
+		"pp" : "unspun",
+		"d" : "To stop something to spin, to rotate."
+	},
+	"unstick" : {
+		"p" : "unstuck",
+		"pp" : "unstuck",
+		"d" : "To free something from being stuck."
+	},
+	"unstring" : {
+		"p" : "unstrung",
+		"pp" : "unstrung",
+		"d" : "To remove the string or strings from."
+	},
+	"unweave" : {
+		"p" : "unwove",
+		"pp" : "unwoven",
+		"d" : "To undo, to separate something woven or interlaced."
+	},
+	"unwind" : {
+		"p" : "unwound",
+		"pp" : "unwound",
+		"d" : "To relax, to rest."
+	},
+	"uphold" : {
+		"p" : "upheld",
+		"pp" : "upheld",
+		"d" : "To lift on high, to elevate."
+	},
+	"upset" : {
+		"p" : "upset",
+		"pp" : "upset",
+		"d" : "To make (a person) angry, distressed, or unhappy.",
+		"q" : "The size of a man is measured by what it takes to upset him.[Vikrant Parsai]"
+	},
+	"wake" : {
+		"p" : "woke",
+		"pp" : "woken",
+		"d" : "To stop sleeping.",
+		"q" : "The best way to make your dreams come true is to wake up.[Paul Valery]"
+	},
+	"waylay" : {
+		"p" : "waylaid",
+		"pp" : "waylaid",
+		"d" : "To interrupt someone and go in trouble."
+	},
+	"wear" : {
+		"p" : "wore",
+		"pp" : "worn",
+		"d" : "To take on clothes on body.",
+		"q" : "No one can wear a mask for very long.[Seneca]"
+	},
+	"weave" : {
+		"p" : "wove",
+		"pp" : "woven",
+		"d" : "To make or move by turning and twisting.",
+		"q" : "It is better to weave a net than to stand by the water longing for fish.[Vikrant Parsai]"
+	},
+	"wed" : {
+		"p" : "wed",
+		"pp" : "wed",
+		"d" : "To perform the marriage ceremony for",
+		"q" : "If you have both money and bread, you can select with whom your daughter to wed.[Vikrant Parsai]"
+	},
+	"weep" : {
+		"p" : "wept",
+		"pp" : "wept",
+		"d" : "To cry, shed tears.",
+		"q" : "Weep for the lives your wishes never led.[Wystan Hugh Auden]"
+	},
+	"win" : {
+		"p" : "won",
+		"pp" : "won",
+		"d" : "To achieve victory.",
+		"q" : "Winners never quit and quitters never win.[Vince Lombardi]"
+	},
+	"wind" : {
+		"p" : "wound",
+		"pp" : "wound",
+		"d" : "To blow air through a wind instrument or horn to make a sound."
+	},
+	"withdraw" : {
+		"p" : "withdrew",
+		"pp" : "withdrawn",
+		"d" : "To extract (money from an account).",
+		"q" : "There is always time to add a word, never to withdraw one.[Baltasar Gracián y Morales]"
+	},
+	"withhold" : {
+		"p" : "withheld",
+		"pp" : "withheld",
+		"d" : "To keep (information, etc) to oneself rather than revealing it.",
+		"q" : "No man can sit down and withhold his hands from the warfare against wrong and get peace from his acquiescence.[Woodrow Wilson]"
+	},
+	"withstand" : {
+		"p" : "withstood",
+		"pp" : "withstood",
+		"d" : "To resist to something successfully."
+	},
+	"wring" : {
+		"p" : "wrung",
+		"pp" : "wrung",
+		"d" : "To obtain by force."
+	},
+	"write" : {
+		"p" : "wrote",
+		"pp" : "written",
+		"d" : "To fill in, to complete using words.",
+		"q" : "I can write better than anybody who can write faster, and I can write faster than anybody who can write better.[A. J. Liebling]"
+	}
+}

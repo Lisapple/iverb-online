@@ -1,0 +1,45 @@
+#header span.title {
+  text-align: right;
+  right: 20px;
+  padding-right: 20px;
+}
+
+.search-bar input[type="search"] {
+  width: 80%;
+  padding: 0% 5%;
+  font-size: 16px;
+}
+
+#panel-left {
+  position: relative;
+  width: 100%;
+
+  -webkit-transition: background 0.25s;
+  transition: background 0.25s;
+}
+
+#panel-left .search-bar {
+  width: 100%;
+}
+
+#panel-left.dismissed {
+  background-color: rgba(0,0,0,0.2);
+}
+
+#panel-right {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  padding: 0px !important;
+
+  -webkit-transition: transform 0.35s;
+  transition: transform 0.35s;
+}
+
+#panel-right.presented {
+  transform: translate(-100%, 0);
+}
+
+#panel-right p {
+  padding: 10px;
+}
